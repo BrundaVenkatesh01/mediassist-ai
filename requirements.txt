@@ -1,0 +1,7 @@
+streamlit
+google-genai
+groq
+gtts
+deep-translator
+pillow
+python-dotenv
